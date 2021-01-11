@@ -5,6 +5,12 @@
 npm install
 ```
 
+## Open JSON server localhost
+```
+json-server --watch ./db/db.json
+```
+
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
